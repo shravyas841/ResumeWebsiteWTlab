@@ -1,7 +1,7 @@
 body {
   font-family: "Segoe UI", sans-serif;
   margin: 0;
-  background-color: var(--bg, #ffffff);
+  background-color: var(--bg, #fafafa);
   color: var(--text, #333);
 }
 
@@ -68,4 +68,5 @@ body.dark {
   --bg: #121212;
   --text: #f0f0f0;
 }
+
 
